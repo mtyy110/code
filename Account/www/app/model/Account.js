@@ -1,0 +1,26 @@
+Ext.define('app.model.Account', {
+    extend: 'Ext.data.Model',
+    idProperty: 'recordId',
+    fields: [{
+        name: 'recordId',
+        type: 'int'
+    }, {
+        name: 'title',
+        type: 'string'
+    }, {
+        name: 'loginName',
+        type: 'string'
+    }, {
+        name: 'password',
+        type: 'string'
+    }, {
+        name: 'url',
+        type: 'string'
+    }, {
+        name: 'comment',
+        type: 'string'
+    }, {
+        name: 'recordTime',
+        type: 'Date'
+    }, ],
+});
