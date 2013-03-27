@@ -1,3 +1,6 @@
 [submodule "Lib/phonegap"]
 	path = Lib/phonegap
 	url = git://github.com/phonegap/phonegap.git
+[submodule "Lib/sencha-touch"]
+	path = Lib/sencha-touch
+	url = git://gitcafe.com/mtyy110/sencha-touch.git

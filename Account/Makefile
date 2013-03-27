@@ -1,5 +1,5 @@
-touch_home = ../Lib/touch-2.1.1/
-phonegap_home = ../Lib/phonegap-2.5.0/
+touch_home = ../Lib/sencha-touch/
+phonegap_home = ../Lib/phonegap/
 js_lib = ../Lib/javascript/
 
 .PHONY: all
